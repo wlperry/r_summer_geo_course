@@ -2,3 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
+
+
+git commit -m ".DS_Store banished!"
+**/.DS_Store
+.DS_Store
